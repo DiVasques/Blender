@@ -60,7 +60,7 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd logo.png
+map_Kd E:\\Git\\Blender\\assets\\openLabs\\logo.png
 
 newmtl eyeglobes
 Ns 323.999994
