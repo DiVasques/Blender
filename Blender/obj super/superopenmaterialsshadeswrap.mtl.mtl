@@ -1,4 +1,4 @@
-# Blender MTL File: 'superopenmaterialsshadeswraphair.blend'
+# Blender MTL File: 'superopenmaterialsshadeswrap.blend'
 # Material Count: 15
 
 newmtl arms
@@ -83,15 +83,14 @@ d 1.000000
 illum 2
 
 newmtl hair
-Ns 225.000000
+Ns 323.999994
 Ka 1.000000 1.000000 1.000000
-Kd 0.049549 0.049549 0.049549
+Kd 0.044411 0.018213 0.010247
 Ks 0.500000 0.500000 0.500000
 Ke 0.0 0.0 0.0
-Ni 1.450000
+Ni 1.000000
 d 1.000000
 illum 2
-map_Kd hair-texture-3-a.jpg
 
 newmtl hands
 Ns 323.999994
